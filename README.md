@@ -6,6 +6,9 @@
 - Middlewares creation
 - Cookie based authentication
 - Create, Read, Update, Delete
+- Eslint & Prettier
+- Swagger API Documentation
+- Test with jest
 
 ### Cloning the repository
 
